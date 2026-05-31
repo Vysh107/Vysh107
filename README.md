@@ -15,5 +15,5 @@ Artificial Intelligence & Machine Learning graduate interested in:
 ## Skills
 Python • SQL • C • Machine Learning • OpenCV • HTML • CSS
 
-## Connect With Me
-LinkedIn: linkedin.com/in/dubakka-vaishnavi-8055062a4
+## LinkedIn 
+linkedin.com/in/dubakka-vaishnavi-8055062a4
