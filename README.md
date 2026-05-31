@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Vaishnavi 👋
 
-<!--
-**Vysh107/Vysh107** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Artificial Intelligence & Machine Learning graduate interested in:
 
-Here are some ideas to get you started:
+- Machine Learning
+- Generative AI
+- Computer Vision
+- Python Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- Book Genie (E-Book Management System)
+- Panoramic Image Stitching
+- Medicinal Plant Recognition System
+
+## Skills
+Python • SQL • C • Machine Learning • OpenCV • HTML • CSS
+
+## Connect With Me
+LinkedIn: linkedin.com/in/dubakka-vaishnavi-8055062a4
